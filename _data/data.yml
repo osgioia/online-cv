@@ -7,55 +7,49 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Tiffany White
-    tagline: Front-end Developer
+    name: Osvaldo Gioia
+    tagline: FullStack Developer
     # avatar: tiffany-white-front-end-developer-copy.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: tiffany@tiffanyrwhite.com
-    phone: (412) 654 3356
-    website: tiffanywhite.dev #do not add http://
-    linkedin: tiffanyrwhite
-    github: twhite96
-    twitter: '@tiffanywhitedev'
-    stack-overflow: 3800146/twhite96
-    codewars: twhite96
+    email: osvaldogioia@hotmail.com
+    linkedin: osvaldogioia
+    github: osgioia
+    twitter: '@aioigzo'
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
+      - idiom: English
+        level: Intermediate  
 
 career-profile:
     title: Summary
     summary: |
-      Front-end developer with 3+ years experience working with JavaScript, CSS, and other front-end technologies. While working for The Practical Dev, I built the popular CodePen embed feature which is used to present, share, and collaborate on code. I’ve built small front-end projects as well as a larger project using React, React Bulma, and Styled-components.
+      Software developer with 7+ years experience working with JavaScript, Linux, SQL, and other technologies. While working as 4GL Programmer, I’ve built small projects as well as a larger project using React, Python and Node-JS.
 
 experiences:
-    - role: Instructor
-      time: Nov 2018-present
-      company: Egghead.io
-      details: |
-        I create quick, easy, digestible lessons on web development in React and GraphQL.
+    - role: 4GL Developer
+      time: aug 2013-present
+      company: Close-Up International
 
-    - role: Software Engineering Intern
-      time: Nov 2017 - February 2018
-      company: DEV
-      details: |
-        Worked on the dev.to publishing platform and community as an apprentice developer.
-        Implemented one of the most popular features on the site with CodePen embeds using Rails.
-        Helped implement the 'Save for later' feature which is used by thousands of developers across the site.
+    - role: Freelance Web Developer
+      time: oct 2014-present
+      company: Freelance
+
+
+    - role: Software Developer
+      time: Sep 2011 - Jan 2013
+      company: OSUTHGRA
+      
 projects:
     title: Projects
     intro: >
       Current side projects
     assignments:
-      - title: Gatsby Starter New Post
-        link: "https://github.com/twhite96/gatsby-starter-blog-new-post"
-        tagline: "A cli tool to create a new post and frontmatter for Gatsby Starter Blog."
-
-      - title: Check Yo Self
-        link: "https://checkyoself-docs.netlify.com/docs/doc1.html"
-        tagline: "Creating a markdown grammar checker rewritten using write-good, simple MDE editor, and spell-check libraries, with React and React Bulma libraries on the front-end. Currently in development, hosted on Netlify."
+      - title: Birrita
+        link: "https://github.com/osgioia/birrita"
+        tagline: "A platform of Micropayments for Developers/SysAdmins. Forked of cafecito."
 
 #       - title: Tempo
 #         link: "#"
@@ -93,14 +87,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      # - name: Python & Django
-      #   level: 98%
+      - name: Python
+         level: 60%
 
       - name: Javascript
-        level: 90%
+        level: 70%
 
       - name: React
-        level: 70%
+        level: 30%
+
+      - name: 4GL
+        level: 90%  
 
       - name: HTML5 & CSS
         level: 95%
@@ -112,4 +109,4 @@ skills:
       #   level: 60%
 
 footer: >
-    Developed with <i class="fas fa-heart"></i> by <a href="http://github.com/twhite96" target="_blank" rel="nofollow">Tiffany White</a>
+    Developed with <i class="fas fa-heart"></i> by <a href="http://github.com/osgioia" target="_blank" rel="nofollow">Osvaldo Gioia</a>
