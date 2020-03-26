@@ -33,20 +33,26 @@ experiences:
       time: aug 2013-present
       company: Close-Up International
       details: |
-        Responsible for the development of a platform on the demand for pharmaceutical products for the subsequent analysis of data from pharmaceutical corporations.  Developing on Progress 4GL on Windows and GNU / Linux. Using tools such as Access, FoxPro, Mantis Bug Tracker and Git.  
+        Responsible for the development of a platform on the demand for pharmaceutical products for the subsequent analysis of data from pharmaceutical corporations.
+        Developing on Progress 4GL on Windows and GNU / Linux. 
+        Using tools such as Access, FoxPro, Mantis Bug Tracker and Git.  
 
     - role: Freelance Web Developer
       time: oct 2014-present
       company: Freelance
       details: |
-        I've been working as a Full Stack Developer in several industry sectors. I'm a very meticulous person which make me investigate the way something works until its depths. I'm always open to learn and teach what I know and I'm keen to learn something new –including things non-technology-related. I'm currently working with NodeJS and ReactJS. 
+        I've been working as a Full Stack Developer in several industry sectors. 
+        I'm a very meticulous person which make me investigate the way something works until its depths. 
+        I'm always open to learn and teach what I know and I'm keen to learn something new –including things non-technology-related. 
+        I'm currently working with NodeJS and ReactJS. 
 
 
     - role: Software Developer
       time: Sep 2011 - Jan 2013
       company: OSUTHGRA
       details: |
-        Development of code of accounting tasks for the social work, including the estimation of costs and supplies purchased. Developing in Progress 4GL on the Windows platform.
+        Development of code of accounting tasks for the social work, including the estimation of costs and supplies purchased. 
+        Developing in Progress 4GL on the Windows platform.
       
 projects:
     title: Projects
